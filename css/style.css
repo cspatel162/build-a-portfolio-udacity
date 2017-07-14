@@ -1,0 +1,47 @@
+body {
+ 	font-family: 'Lato', sans-serif;
+}
+
+.container {
+	max-width: 800px;
+	padding: 15px;
+}
+
+hr {
+ 	border: none;
+    height: 4px;
+    background-color: #7d97ad;  
+    margin-top: 0.2em;
+    margin-bottom: 2.2em;
+}
+
+.logo {
+ 	max-width: 75px;
+ 	height:75px;
+ 	margin-top: 2em;
+ 	margin-bottom: 2em;
+}
+
+.name {
+ 	font-weight: 300;
+  	margin-top: 1em;
+}
+
+.sub-heading {
+ 	color: #7d97ad;
+ 	font-size: 30px;
+ 	padding-left: 10px;
+ 	margin-top: 20px; 
+}  
+
+.project {
+	max-width: 150px;
+	max-height: 100px;
+	margin-top: 10px;
+}
+ 
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
